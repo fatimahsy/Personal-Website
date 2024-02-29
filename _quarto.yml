@@ -16,12 +16,12 @@ website:
       - icon: github
         text: "Github"
         href: https://github.com/fatimahsy 
-      - text: About 
+      - text: About Me
         href: about.qmd
 
 format:
   html:
-    theme: sketchy
+    theme: minty
     css: styles.css
     toc: true
 
