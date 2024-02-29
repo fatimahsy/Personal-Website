@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: united
+    theme: sketchy
     css: styles.css
     toc: true
 
