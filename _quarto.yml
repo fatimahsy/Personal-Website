@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - text: "CV"
-        href: https://publuu.com/flip-book/416458/941140
+        href: pdfs/Resume_3.pdf
       - icon: envelope
         text: "Email"
         href: "mailto:fatimah.yunusa@mail.utoronto.ca"
@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: sketchy 
+    theme: sketchy
     css: styles.css
     toc: true
 
