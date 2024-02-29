@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Fatimah Yunusa "
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - icon: back
+        text: About Me
+        href: "about.qmd"
+      - text: "CV"
+        href: https://publuu.com/flip-book/416458/941140
+      - icon: envelope
+        text: "Email"
+        href: "mailto:fatimah.yunusa@mail.utoronto.ca"
+      - icon: github
+        text: "Github"
+        href: https://github.com/fatimahsy 
+
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+
+
