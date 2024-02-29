@@ -3,9 +3,6 @@ title: "Fatimah Yunusa"
 about:
   template: trestles
   links: 
-    - icon: back
-      text: About Me
-      href: "about.qmd"
     - icon: book 
       text: "CV"
       href: https://publuu.com/flip-book/416458/941140
