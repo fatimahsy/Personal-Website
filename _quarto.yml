@@ -8,9 +8,6 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - icon: back
-        text: About Me
-        href: "about.qmd"
       - text: "CV"
         href: https://publuu.com/flip-book/416458/941140
       - icon: envelope
