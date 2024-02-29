@@ -3,9 +3,6 @@ title: "Fatimah Yunusa"
 about:
   template: trestles
   links: 
-    - icon: book 
-      text: "CV"
-      href: pdfs/Resume_3.pdf
     - icon: envelope
       text: "Email"
       href: "mailto:fatimah.yunusa@mail.utoronto.ca"
